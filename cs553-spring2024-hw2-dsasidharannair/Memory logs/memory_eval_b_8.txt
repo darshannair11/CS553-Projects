@@ -1,0 +1,40 @@
+
+MEMORY EVAL FOR THREAD COUNT 8
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Running memory speed test with the following options:
+  block size: 1KiB
+  total size: 122880MiB
+  operation: read
+  scope: global
+
+Initializing worker threads...
+
+Threads started!
+
+Total operations: 125829120 (13188985.41 per second)
+
+122880.00 MiB transferred (12879.87 MiB/sec)
+
+
+General statistics:
+    total time:                          9.5378s
+    total number of events:              125829120
+
+Latency (ms):
+         min:                                    0.00
+         avg:                                    0.00
+         max:                                    0.19
+         95th percentile:                        0.00
+         sum:                                51840.84
+
+Threads fairness:
+    events (avg/stddev):           15728640.0000/0.00
+    execution time (avg/stddev):   6.4801/0.02
+

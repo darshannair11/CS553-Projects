@@ -1,0 +1,10 @@
+google.com 17.857
+iit.edu 40.378
+meta.com 8.024
+instagram.com 9.881
+twitter.com 43.632
+bing.com 17.081
+youtube.com 7.895
+gmail.com 15.362
+figma.com 10.171
+booking.com 9.983

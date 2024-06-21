@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+cc3b6e2861e617cac261ea8bf07cca09 blake3_avx2_x86-64_unix.o
+93d41dddaf47c0d1b98f445b456a1f9a blake3_avx512_x86-64_unix.o
+c76bcf5a81c52cfa0b84a1fbeaf97202 blake3_sse2_x86-64_unix.o
+14898504c6a8f54852dc196863879292 blake3_sse41_x86-64_unix.o

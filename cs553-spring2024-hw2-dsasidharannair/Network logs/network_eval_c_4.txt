@@ -1,0 +1,68 @@
+------------------------------------------------------------
+Client connecting to 127.0.0.1, TCP port 5001 with pid 1883 (4 flows)
+Write buffer size: 8388608 Byte
+TOS set to 0x0 and nodelay (Nagle off)
+TCP window size:  416 KByte (WARNING: requested 2.44 MByte)
+------------------------------------------------------------
+[  1] local 127.0.0.1%lo port 37018 connected with 127.0.0.1 port 5001 (MSS=32767) (trip-times) (sock=3) (irtt/icwnd=23/319) (ct=0.24 ms) on 2024-02-10 17:58:13 (UTC)
+[  2] local 127.0.0.1%lo port 37022 connected with 127.0.0.1 port 5001 (MSS=32767) (trip-times) (sock=4) (irtt/icwnd=12/319) (ct=0.03 ms) on 2024-02-10 17:58:13 (UTC)
+[  3] local 127.0.0.1%lo port 37024 connected with 127.0.0.1 port 5001 (MSS=32767) (trip-times) (sock=5) (irtt/icwnd=7/319) (ct=0.02 ms) on 2024-02-10 17:58:13 (UTC)
+[  4] local 127.0.0.1%lo port 37026 connected with 127.0.0.1 port 5001 (MSS=32767) (trip-times) (sock=6) (irtt/icwnd=9/319) (ct=0.02 ms) on 2024-02-10 17:58:13 (UTC)
+[ ID] Interval            Transfer    Bandwidth       Write/Err  Rtry     Cwnd/RTT(var)        NetPwr
+[  4] 0.0000-1.0000 sec  3.33 GBytes  28.6 Gbits/sec  426/0          0      639K/32(17) us  111673346
+[  1] 0.0000-1.0000 sec  3.27 GBytes  28.1 Gbits/sec  418/0          0      639K/32(17) us  109576194
+[  3] 0.0000-1.0000 sec  3.22 GBytes  27.6 Gbits/sec  412/0          0      639K/32(18) us  108003330
+[  2] 0.0000-1.0000 sec  3.23 GBytes  27.8 Gbits/sec  414/0          0      639K/33(17) us  105238903
+[SUM] 0.0000-1.0000 sec  13.0 GBytes   112 Gbits/sec  1670/0         0
+[  4] 1.0000-2.0000 sec  3.26 GBytes  28.0 Gbits/sec  417/0          0      639K/32(17) us  109314048
+[  1] 1.0000-2.0000 sec  3.23 GBytes  27.7 Gbits/sec  413/0          0      639K/32(17) us  108265472
+[  3] 1.0000-2.0000 sec  3.24 GBytes  27.9 Gbits/sec  415/0          0      639K/32(16) us  108789760
+[  2] 1.0000-2.0000 sec  3.23 GBytes  27.8 Gbits/sec  414/0          0      639K/32(17) us  108527616
+[SUM] 1.0000-2.0000 sec  13.0 GBytes   111 Gbits/sec  1659/0         0
+[  4] 2.0000-3.0000 sec  3.27 GBytes  28.1 Gbits/sec  418/0          0      639K/32(16) us  109576192
+[  1] 2.0000-3.0000 sec  3.26 GBytes  28.0 Gbits/sec  417/0          0      639K/32(16) us  109314048
+[  3] 2.0000-3.0000 sec  3.27 GBytes  28.1 Gbits/sec  418/0          0      639K/32(16) us  109576192
+[  2] 2.0000-3.0000 sec  3.23 GBytes  27.8 Gbits/sec  414/0          0      639K/33(18) us  105238900
+[SUM] 2.0000-3.0000 sec  13.0 GBytes   112 Gbits/sec  1667/0         0
+[  4] 3.0000-4.0000 sec  3.27 GBytes  28.1 Gbits/sec  419/0          0      639K/32(17) us  109838336
+[  1] 3.0000-4.0000 sec  3.25 GBytes  27.9 Gbits/sec  416/0          0      639K/33(16) us  105747301
+[  3] 3.0000-4.0000 sec  3.28 GBytes  28.2 Gbits/sec  420/0          0      639K/32(16) us  110100480
+[  2] 3.0000-4.0000 sec  3.24 GBytes  27.9 Gbits/sec  415/0          0      639K/33(17) us  105493101
+[SUM] 3.0000-4.0000 sec  13.0 GBytes   112 Gbits/sec  1670/0         0
+[  4] 4.0000-5.0000 sec  3.25 GBytes  27.9 Gbits/sec  416/0          0      639K/32(17) us  109051904
+[  1] 4.0000-5.0000 sec  3.24 GBytes  27.9 Gbits/sec  415/0          0      639K/33(17) us  105493101
+[  3] 4.0000-5.0000 sec  3.28 GBytes  28.2 Gbits/sec  420/0          0      639K/33(16) us  106764102
+[  2] 4.0000-5.0000 sec  3.23 GBytes  27.7 Gbits/sec  413/0          0      639K/33(17) us  104984700
+[SUM] 4.0000-5.0000 sec  13.0 GBytes   112 Gbits/sec  1664/0         0
+[  4] 5.0000-6.0000 sec  3.27 GBytes  28.1 Gbits/sec  418/0          0      639K/32(17) us  109576192
+[  1] 5.0000-6.0000 sec  3.23 GBytes  27.7 Gbits/sec  413/0          0      639K/33(17) us  104984700
+[  3] 5.0000-6.0000 sec  3.28 GBytes  28.2 Gbits/sec  420/0          0      639K/32(16) us  110100480
+[  2] 5.0000-6.0000 sec  3.23 GBytes  27.8 Gbits/sec  414/0          0      639K/32(17) us  108527616
+[SUM] 5.0000-6.0000 sec  13.0 GBytes   112 Gbits/sec  1665/0         0
+[  4] 6.0000-7.0000 sec  3.26 GBytes  28.0 Gbits/sec  417/0          0      639K/32(16) us  109314048
+[  1] 6.0000-7.0000 sec  3.23 GBytes  27.7 Gbits/sec  413/0          0      639K/32(17) us  108265472
+[  3] 6.0000-7.0000 sec  3.28 GBytes  28.2 Gbits/sec  420/0          0      639K/32(16) us  110100480
+[  2] 6.0000-7.0000 sec  3.22 GBytes  27.6 Gbits/sec  412/0          0      639K/33(17) us  104730500
+[SUM] 6.0000-7.0000 sec  13.0 GBytes   112 Gbits/sec  1662/0         0
+[  4] 7.0000-8.0000 sec  3.27 GBytes  28.1 Gbits/sec  418/0          0      639K/33(17) us  106255701
+[  1] 7.0000-8.0000 sec  3.23 GBytes  27.8 Gbits/sec  414/0          0      639K/32(17) us  108527616
+[  3] 7.0000-8.0000 sec  3.29 GBytes  28.3 Gbits/sec  421/0          0      639K/32(17) us  110362624
+[  2] 7.0000-8.0000 sec  3.24 GBytes  27.9 Gbits/sec  415/0          0      639K/33(17) us  105493101
+[SUM] 7.0000-8.0000 sec  13.0 GBytes   112 Gbits/sec  1668/0         0
+[  4] 8.0000-9.0000 sec  3.25 GBytes  27.9 Gbits/sec  416/0          0      639K/33(17) us  105747301
+[  1] 8.0000-9.0000 sec  3.23 GBytes  27.8 Gbits/sec  414/0          0      639K/32(17) us  108527616
+[  3] 8.0000-9.0000 sec  3.28 GBytes  28.2 Gbits/sec  420/0          0      639K/32(17) us  110100480
+[  2] 8.0000-9.0000 sec  3.10 GBytes  26.6 Gbits/sec  397/0          0      639K/32(18) us  104071168
+[SUM] 8.0000-9.0000 sec  12.9 GBytes   111 Gbits/sec  1647/0         0
+[  4] 9.0000-10.0000 sec  3.25 GBytes  27.9 Gbits/sec  416/0          0      639K/33(17) us  105747301
+[  1] 9.0000-10.0000 sec  3.25 GBytes  27.9 Gbits/sec  416/0          0      639K/29(2) us  120333135
+[  3] 9.0000-10.0000 sec  3.27 GBytes  28.1 Gbits/sec  419/0          0      639K/32(16) us  109838336
+[  2] 9.0000-10.0000 sec  3.23 GBytes  27.7 Gbits/sec  413/0          0      639K/27(2) us  128314633
+[SUM] 9.0000-10.0000 sec  13.0 GBytes   112 Gbits/sec  1664/0         0
+[  1] 0.0000-10.0062 sec  32.4 GBytes  27.8 Gbits/sec  4150/0          0      639K/23(3) us  151266139
+[  2] 0.0000-10.0050 sec  32.2 GBytes  27.6 Gbits/sec  4122/0          0      639K/24(3) us  144002154
+[  3] 0.0000-10.0058 sec  32.7 GBytes  28.1 Gbits/sec  4186/0          0      639K/290(528) us  12101540
+[  4] 10.0000-11.0060 sec  8.00 MBytes  66.7 Mbits/sec  1/0          1      639K/1779(3504) us  4687
+[  4] 0.0000-11.0060 sec  32.7 GBytes  25.5 Gbits/sec  4182/0          1      639K/1779(3504) us  1791711
+[SUM] 0.0000-10.0039 sec   130 GBytes   112 Gbits/sec  16640/0         1
+[ CT] final connect times (min/avg/max/stdev) = 0.018/0.078/0.242/0.109 ms (tot/err) = 4/0

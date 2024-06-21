@@ -1,0 +1,6 @@
+Device, Hashgen, Vault
+1 small-instance-spare, 16GB dataset, 2GB RAM,506.725966453,165.065612417
+1 large-instance-spare, 16GB dataset, 16GB RAM,497.861129526,137.875598184
+1 small-instance-spare 32GB dataset 2GB RAM,,152.656708102
+1 large-instance-spare 32GB dataset 16GB RAM,1618.677491330,309.776042807
+1 large-instance-spare 64GB dataset 16GB RAM,1919.334,667.898437337

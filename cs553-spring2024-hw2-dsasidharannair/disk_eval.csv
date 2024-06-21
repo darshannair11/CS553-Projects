@@ -1,0 +1,15 @@
+Virtualization Type,Threads,BlockSize (KB),Operation,Access Pattern,I/O Mode,I/O Flag,Total Operations,Measured Throughput(MiB/sec),Efficiency
+BareMetal,1,4,Read,Random,Sync,DirectIO,37.05,9484.48,100.0%
+Virtual Machine,1,4,Read,Random,Sync,DirectIO,50.03,12807.32,135.0344984648605%
+BareMetal,2,4,Read,Random,Sync,DirectIO,72.25,18495.52,100.0%
+Virtual Machine,2,4,Read,Random,Sync,DirectIO,50.03,12807.32,69.24552540290838%
+BareMetal,4,4,Read,Random,Sync,DirectIO,129.88,33248.79,100.0%
+Virtual Machine,4,4,Read,Random,Sync,DirectIO,181.39,46435.09,139.65948836032828%
+BareMetal,8,4,Read,Random,Sync,DirectIO,208.61,53405.03,100.0%
+Virtual Machine,8,4,Read,Random,Sync,DirectIO,317.84,81368.2,152.36055480167317%
+BareMetal,16,4,Read,Random,Sync,DirectIO,275.24,70462.33,100.0%
+Virtual Machine,16,4,Read,Random,Sync,DirectIO,409.05,104715.66,148.61225849329708%
+BareMetal,32,4,Read,Random,Sync,DirectIO,317.31,81231.97,100.0%
+Virtual Machine,32,4,Read,Random,Sync,DirectIO,443.66,113578.1,139.819457782447%
+BareMetal,64,4,Read,Random,Sync,DirectIO,319.91,81898.15,100.0%
+Virtual Machine,64,4,Read,Random,Sync,DirectIO,469.94,120304.74,146.8955525857422%

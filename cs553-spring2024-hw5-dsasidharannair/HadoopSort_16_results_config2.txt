@@ -1,0 +1,132 @@
+Welcome to Ubuntu 22.04.4 LTS (GNU/Linux 5.15.0-1054-kvm x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+  System information as of Sat Apr 20 02:46:04 UTC 2024
+
+  System load:             0.080078125
+  Usage of /:              42.5% of 8.85GB
+  Memory usage:            41%
+  Swap usage:              0%
+  Processes:               111
+  Users logged in:         1
+  IPv4 address for enp5s0: 10.10.192.141
+  IPv6 address for enp5s0: fd42:c13:b5d0:9a42:216:3eff:fef5:485c
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+Expanded Security Maintenance for Applications is not enabled.
+
+12 updates can be applied immediately.
+12 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+Added 1 GB of data
+Added 2 GB of data
+Added 3 GB of data
+Added 4 GB of data
+Added 5 GB of data
+Added 6 GB of data
+Added 7 GB of data
+Added 8 GB of data
+Added 9 GB of data
+Added 10 GB of data
+Added 11 GB of data
+Added 12 GB of data
+Added 13 GB of data
+Added 14 GB of data
+Added 15 GB of data
+Added 16 GB of data
+Starting Hadoop Program
+Welcome to Ubuntu 22.04.4 LTS (GNU/Linux 5.15.0-1054-kvm x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+  System information as of Sat Apr 20 02:59:28 UTC 2024
+
+  System load:             0.01220703125
+  Usage of /:              42.9% of 8.85GB
+  Memory usage:            41%
+  Swap usage:              0%
+  Processes:               117
+  Users logged in:         1
+  IPv4 address for enp5s0: 10.10.192.141
+  IPv6 address for enp5s0: fd42:c13:b5d0:9a42:216:3eff:fef5:485c
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+Expanded Security Maintenance for Applications is not enabled.
+
+12 updates can be applied immediately.
+12 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+Welcome to Ubuntu 22.04.4 LTS (GNU/Linux 5.15.0-1054-kvm x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+  System information as of Sat Apr 20 02:59:28 UTC 2024
+
+  System load:             0.01220703125
+  Usage of /:              42.9% of 8.85GB
+  Memory usage:            41%
+  Swap usage:              0%
+  Processes:               117
+  Users logged in:         1
+  IPv4 address for enp5s0: 10.10.192.141
+  IPv6 address for enp5s0: fd42:c13:b5d0:9a42:216:3eff:fef5:485c
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+Expanded Security Maintenance for Applications is not enabled.
+
+12 updates can be applied immediately.
+12 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+Added 1 GB of data
+Added 2 GB of data
+Added 3 GB of data
+Added 4 GB of data
+Added 5 GB of data
+Added 6 GB of data
+Added 7 GB of data
+Added 8 GB of data
+Added 9 GB of data
+Added 10 GB of data
+Added 11 GB of data
+Added 12 GB of data
+Added 13 GB of data
+Added 14 GB of data
+Added 15 GB of data
+Added 16 GB of data
+Starting Hadoop Program
+Deleted output
+Deleted input/data.bin

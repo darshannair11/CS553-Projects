@@ -1,0 +1,39 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size:  416 KByte (WARNING: requested 1.00 MByte)
+------------------------------------------------------------
+[  1] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51682 (trip-times) (sock=4) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[  3] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51690 (trip-times) (sock=6) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[  5] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51710 (trip-times) (sock=8) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[  7] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51720 (trip-times) (sock=10) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[  9] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51742 (trip-times) (sock=12) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[ 10] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51746 (trip-times) (sock=13) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[  4] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51706 (trip-times) (sock=7) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[  8] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51730 (trip-times) (sock=11) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[  2] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51684 (trip-times) (sock=5) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[  6] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51718 (trip-times) (sock=9) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[ 11] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51748 (trip-times) (sock=14) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[ 12] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51750 (trip-times) (sock=15) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[ 13] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51760 (trip-times) (sock=16) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[ 15] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51792 (trip-times) (sock=18) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[ 16] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51794 (trip-times) (sock=19) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[ 14] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 51776 (trip-times) (sock=17) (peer 2.1.5) on 2024-02-10 17:53:21 (UTC)
+[ ID] Interval            Transfer    Bandwidth    Burst Latency avg/min/max/stdev (cnt/size) inP NetPwr  Reads=Dist
+[  3] 0.0000-10.0026 sec  34.2 GBytes  29.4 Gbits/sec  2.275/2.070/10.137/0.356 ms (4383/8388608) 7.97 MByte 1615947  392058=4376:0:2:214330:4:3:1:173335
+[ 11] 0.0000-10.0034 sec  35.6 GBytes  30.6 Gbits/sec  2.190/2.065/14.176/0.371 ms (4555/8388608) 7.98 MByte 1744420  407254=4538:0:1:222373:16:2:0:180307
+[  2] 0.0000-10.0036 sec  35.1 GBytes  30.1 Gbits/sec  2.222/2.097/11.902/0.291 ms (4488/8388608) 7.97 MByte 1693903  401219=4469:3:0:219013:17:0:1:177696
+[  1] 0.0000-10.0044 sec  35.3 GBytes  30.3 Gbits/sec  2.208/1.904/10.675/0.303 ms (4517/8388608) 7.98 MByte 1715312  403422=4485:7:5:219651:20:7:6:179213
+[ 10] 0.0000-10.0024 sec  37.7 GBytes  32.4 Gbits/sec  2.066/1.873/16.518/0.331 ms (4825/8388608) 7.97 MByte 1958665  431811=4826:0:0:236370:0:0:0:190613
+[ 16] 0.0000-10.0034 sec  35.1 GBytes  30.1 Gbits/sec  2.219/1.920/18.423/0.420 ms (4493/8388608) 7.97 MByte 1697851  401883=4484:2:3:219679:4:3:2:177699
+[  4] 0.0000-10.0027 sec  36.9 GBytes  31.7 Gbits/sec  2.114/1.901/10.326/0.309 ms (4718/8388608) 7.98 MByte 1871583  421395=4690:7:10:229458:11:9:7:187176
+[ 13] 0.0000-10.0026 sec  36.8 GBytes  31.6 Gbits/sec  2.119/1.846/18.526/0.403 ms (4705/8388608) 7.97 MByte 1862064  420736=4689:0:0:229837:17:0:0:186175
+[ 14] 0.0000-10.0043 sec  35.8 GBytes  30.8 Gbits/sec  2.175/1.993/9.762/0.272 ms (4585/8388608) 7.97 MByte 1767535  410138=4578:4:2:224225:3:1:3:181313
+[  6] 0.0000-10.0023 sec  34.5 GBytes  29.6 Gbits/sec  2.258/2.084/15.333/0.369 ms (4415/8388608) 7.97 MByte 1639796  394942=4407:2:3:215935:4:3:2:174579
+[ 12] 0.0000-10.0032 sec  35.9 GBytes  30.8 Gbits/sec  2.171/2.022/14.729/0.386 ms (4592/8388608) 7.97 MByte 1773587  410639=4582:1:3:224323:5:4:2:181712
+[  5] 0.0000-10.0039 sec  35.7 GBytes  30.7 Gbits/sec  2.181/2.033/10.805/0.300 ms (4572/8388608) 7.97 MByte 1757614  408778=4558:3:2:223203:9:3:3:180980
+[  7] 0.0000-10.0040 sec  36.8 GBytes  31.6 Gbits/sec  2.118/1.942/10.519/0.286 ms (4710/8388608) 7.98 MByte 1865133  421183=4698:3:2:230071:8:2:3:186384
+[  9] 0.0000-10.0030 sec  35.2 GBytes  30.2 Gbits/sec  2.211/2.014/10.377/0.409 ms (4508/8388608) 7.97 MByte 1709550  403314=4502:1:2:220590:3:3:0:178211
+[ 15] 0.0000-10.0034 sec  35.9 GBytes  30.8 Gbits/sec  2.173/2.054/18.217/0.358 ms (4589/8388608) 7.97 MByte 1771056  410409=4578:0:2:224256:9:2:1:181551
+[  8] 0.0000-10.0042 sec  35.4 GBytes  30.4 Gbits/sec  2.202/1.894/23.662/0.499 ms (4529/8388608) 7.97 MByte 1724953  404993=4518:3:4:221219:3:3:5:179232
+[ ID] Interval       Transfer     Bandwidth
+[SUM] 0.0000-10.0041 sec   572 GBytes   491 Gbits/sec

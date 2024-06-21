@@ -1,0 +1,19 @@
+------------------------------------------------------------
+Client connecting to 127.0.0.1, TCP port 5001 with pid 1807 (1 flows)
+Write buffer size: 8388608 Byte
+TOS set to 0x0 and nodelay (Nagle off)
+TCP window size:  416 KByte (WARNING: requested 2.44 MByte)
+------------------------------------------------------------
+[  1] local 127.0.0.1%lo port 51232 connected with 127.0.0.1 port 5001 (MSS=32767) (trip-times) (sock=3) (irtt/icwnd=20/319) (ct=0.24 ms) on 2024-02-10 17:56:24 (UTC)
+[ ID] Interval            Transfer    Bandwidth       Write/Err  Rtry     Cwnd/RTT(var)        NetPwr
+[  1] 0.0000-1.0000 sec  3.62 GBytes  31.1 Gbits/sec  463/0          0      639K/32(17) us  121372674
+[  1] 1.0000-2.0000 sec  3.38 GBytes  29.1 Gbits/sec  433/0          0      639K/31(17) us  117169912
+[  1] 2.0000-3.0000 sec  3.38 GBytes  29.1 Gbits/sec  433/0          0      639K/31(16) us  117169912
+[  1] 3.0000-4.0000 sec  3.40 GBytes  29.2 Gbits/sec  435/0          0      639K/31(17) us  117711112
+[  1] 4.0000-5.0000 sec  3.40 GBytes  29.2 Gbits/sec  435/0          0      639K/31(16) us  117711112
+[  1] 5.0000-6.0000 sec  3.40 GBytes  29.2 Gbits/sec  435/0          0      639K/31(17) us  117711112
+[  1] 6.0000-7.0000 sec  3.41 GBytes  29.3 Gbits/sec  436/0          0      639K/32(19) us  114294784
+[  1] 7.0000-8.0000 sec  3.37 GBytes  28.9 Gbits/sec  431/0          0      639K/31(17) us  116628711
+[  1] 8.0000-9.0000 sec  3.38 GBytes  29.0 Gbits/sec  432/0          0      639K/31(16) us  116899311
+[  1] 9.0000-10.0000 sec  3.38 GBytes  29.1 Gbits/sec  433/0          0      639K/31(17) us  117169912
+[  1] 0.0000-10.0036 sec  34.1 GBytes  29.3 Gbits/sec  4367/0          0      639K/52(56) us  70422858

@@ -1,0 +1,10 @@
+google.com
+iit.edu
+meta.com
+instagram.com
+twitter.com
+bing.com
+youtube.com
+gmail.com
+figma.com
+booking.com

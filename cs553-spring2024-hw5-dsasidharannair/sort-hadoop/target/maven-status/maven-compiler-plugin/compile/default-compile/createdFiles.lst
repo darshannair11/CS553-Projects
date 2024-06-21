@@ -1,0 +1,8 @@
+com/example/HashInputFormat$HashRecordReader.class
+com/example/HadoopSort$HashReducer.class
+com/example/App.class
+com/example/HadoopSort.class
+com/example/HashInputFormat.class
+com/example/HashOutputFormat$HashRecordWriter.class
+com/example/HashOutputFormat.class
+com/example/HadoopSort$HashMapper.class

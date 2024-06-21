@@ -1,0 +1,22 @@
+Virtualization Type,Threads,BlockSize (KB),Operation,Access Pattern,Total Operations,Throughput(MiB/sec),Efficiency
+BareMetal,1,1,Read,Random,19963448.0,1949.16,100.0%
+Virtual Machine,1,1,Read,Random,18485037.0,1804.89,92.59835005848673%
+Container,1,1,Read,Random,19714882.0,1924.97,98.75895257444232%
+BareMetal,2,1,Read,Random,38575050.0,3766.29,100.0%
+Virtual Machine,2,1,Read,Random,36188043.0,3533.36,93.81539923903895%
+Container,2,1,Read,Random,31482950.0,3073.99,81.61851583388426%
+BareMetal,4,1,Read,Random,75568095.0,7378.23,100.0%
+Virtual Machine,4,1,Read,Random,71921946.0,7022.5,95.17865395901185%
+Container,4,1,Read,Random,62940391.0,6145.54,83.29287647579433%
+BareMetal,8,1,Read,Random,125829120.0,12879.87,100.0%
+Virtual Machine,8,1,Read,Random,125829120.0,12299.94,95.49739244262558%
+Container,8,1,Read,Random,118435404.0,11564.14,89.78460186321755%
+BareMetal,16,1,Read,Random,125829120.0,20979.51,100.0%
+Virtual Machine,16,1,Read,Random,125829120.0,23692.62,112.93218955066158%
+Container,16,1,Read,Random,125829120.0,21438.34,102.18703868679488%
+BareMetal,32,1,Read,Random,125829120.0,40923.7,100.0%
+Virtual Machine,32,1,Read,Random,125829120.0,37195.99,90.89107289907804%
+Container,32,1,Read,Random,125829120.0,32775.44,80.08914149991327%
+BareMetal,64,1,Read,Random,125829120.0,63125.55,100.0%
+Virtual Machine,64,1,Read,Random,125829120.0,43870.08,69.49655092114048%
+Container,64,1,Read,Random,125829120.0,51568.5,81.69196149578102%

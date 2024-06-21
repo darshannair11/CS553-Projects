@@ -1,0 +1,100 @@
+Welcome to Ubuntu 22.04.4 LTS (GNU/Linux 5.15.0-1054-kvm x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+  System information as of Sat Apr 20 00:24:05 UTC 2024
+
+  System load:             0.2177734375
+  Usage of /:              44.3% of 8.85GB
+  Memory usage:            46%
+  Swap usage:              0%
+  Processes:               131
+  Users logged in:         1
+  IPv4 address for enp5s0: 10.10.192.226
+  IPv6 address for enp5s0: fd42:c13:b5d0:9a42:216:3eff:fe39:4c82
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+Expanded Security Maintenance for Applications is not enabled.
+
+10 updates can be applied immediately.
+7 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+2 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+*** System restart required ***
+Added 1 GB of data
+Added 2 GB of data
+Added 3 GB of data
+Added 4 GB of data
+Added 5 GB of data
+Added 6 GB of data
+Added 7 GB of data
+Added 8 GB of data
+Added 9 GB of data
+Added 10 GB of data
+Added 11 GB of data
+Added 12 GB of data
+Added 13 GB of data
+Added 14 GB of data
+Added 15 GB of data
+Added 16 GB of data
+Added 17 GB of data
+Added 18 GB of data
+Added 19 GB of data
+Added 20 GB of data
+Added 21 GB of data
+Added 22 GB of data
+Added 23 GB of data
+Added 24 GB of data
+Added 25 GB of data
+Added 26 GB of data
+Added 27 GB of data
+Added 28 GB of data
+Added 29 GB of data
+Added 30 GB of data
+Added 31 GB of data
+Added 32 GB of data
+Added 33 GB of data
+Added 34 GB of data
+Added 35 GB of data
+Added 36 GB of data
+Added 37 GB of data
+Added 38 GB of data
+Added 39 GB of data
+Added 40 GB of data
+Added 41 GB of data
+Added 42 GB of data
+Added 43 GB of data
+Added 44 GB of data
+Added 45 GB of data
+Added 46 GB of data
+Added 47 GB of data
+Added 48 GB of data
+Added 49 GB of data
+Added 50 GB of data
+Added 51 GB of data
+Added 52 GB of data
+Added 53 GB of data
+Added 54 GB of data
+Added 55 GB of data
+Added 56 GB of data
+Added 57 GB of data
+Added 58 GB of data
+Added 59 GB of data
+Added 60 GB of data
+Added 61 GB of data
+Added 62 GB of data
+Added 63 GB of data
+Added 64 GB of data
+Starting Hadoop Program
+Deleted output
+Deleted input/data.bin

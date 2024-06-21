@@ -1,0 +1,11 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size:  416 KByte (WARNING: requested 1.00 MByte)
+------------------------------------------------------------
+[  1] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 46288 (trip-times) (sock=4) (peer 2.1.5) on 2024-02-10 17:50:29 (UTC)
+[  2] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 46296 (trip-times) (sock=5) (peer 2.1.5) on 2024-02-10 17:50:29 (UTC)
+[ ID] Interval            Transfer    Bandwidth    Burst Latency avg/min/max/stdev (cnt/size) inP NetPwr  Reads=Dist
+[  1] 0.0000-10.0036 sec  44.7 GBytes  38.4 Gbits/sec  1.742/1.621/8.158/0.291 ms (5727/8388608) 7.98 MByte 2756436  512564=5728:0:0:280616:0:0:0:226220
+[  2] 0.0000-10.0027 sec  44.3 GBytes  38.1 Gbits/sec  1.759/1.588/4.877/0.186 ms (5674/8388608) 7.98 MByte 2705183  506859=5640:6:8:276115:20:8:6:225018
+[ ID] Interval       Transfer     Bandwidth
+[SUM] 0.0000-10.0026 sec  89.1 GBytes  76.5 Gbits/sec

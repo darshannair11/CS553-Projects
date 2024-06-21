@@ -1,0 +1,15 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size:  416 KByte (WARNING: requested 1.00 MByte)
+------------------------------------------------------------
+[  1] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 37018 (trip-times) (sock=4) (peer 2.1.5) on 2024-02-10 17:58:13 (UTC)
+[  2] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 37022 (trip-times) (sock=5) (peer 2.1.5) on 2024-02-10 17:58:13 (UTC)
+[  3] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 37024 (trip-times) (sock=7) (peer 2.1.5) on 2024-02-10 17:58:13 (UTC)
+[  4] local 127.0.0.1%lo port 5001 connected with 127.0.0.1 port 37026 (trip-times) (sock=6) (peer 2.1.5) on 2024-02-10 17:58:13 (UTC)
+[ ID] Interval            Transfer    Bandwidth    Burst Latency avg/min/max/stdev (cnt/size) inP NetPwr  Reads=Dist
+[  2] 0.0000-10.0040 sec  32.2 GBytes  27.7 Gbits/sec  2.420/2.192/14.929/0.296 ms (4122/8388608) 7.98 MByte 1427975  368909=4122:2:1:201953:0:1:0:162830
+[  4] 0.0000-10.0036 sec  32.7 GBytes  28.1 Gbits/sec  2.386/1.894/4.723/0.098 ms (4182/8388608) 7.98 MByte 1469686  373473=4146:3:2:203315:32:2:3:165934
+[  3] 0.0000-10.0037 sec  32.7 GBytes  28.1 Gbits/sec  2.383/2.323/18.818/0.408 ms (4186/8388608) 7.98 MByte 1472700  374643=4187:0:0:205104:0:0:0:165351
+[  1] 0.0000-10.0046 sec  32.4 GBytes  27.8 Gbits/sec  2.404/1.861/11.642/0.185 ms (4150/8388608) 7.98 MByte 1447272  371009=4138:5:2:202521:5:2:6:164320
+[ ID] Interval       Transfer     Bandwidth
+[SUM] 0.0000-10.0046 sec   130 GBytes   112 Gbits/sec
